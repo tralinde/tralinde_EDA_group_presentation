@@ -5,16 +5,33 @@ Analyzing YouTube video viewership is important for evaluating content performan
 
 ## Stakeholder Interest
 
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/4db9ab1f-c597-4913-9ed6-94a0b26327b1)
+Analyzing YouTube viewership
+Evaluating audience engagement
+Informing marketing decisions
+
+## Summary
+Most popular content creators
+Analysis by video category
+Most viewed
+Most commented
+Timeline between publication and trending status
+
 
 
 ## The Most Popular Creators between Nov 2017 and June 2018 and Their View Count
 
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/25f602ee-2ef5-4019-910e-6a93ce266fcd)
+![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/404b76bd-2edb-4804-9226-e7661b3972ae)
+
 
 ## The Most Popular Video Categories by View Count
 
-![Image](image-1.png)
+![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/2264cf5b-2683-4bce-b174-d532f3136703)
+
+## Days until trending sorted by category 
+
+![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ab71dbca-e2f8-46e3-9825-eec05ea4cf17)
+
+
 
 ## Planning
 
