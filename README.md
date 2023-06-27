@@ -29,7 +29,7 @@ Analyzing YouTube video viewership is important for evaluating content performan
 
 ## The Most Popular Creators between Nov 2017 and June 2018 and Their View Count
 
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/404b76bd-2edb-4804-9226-e7661b3972ae)
+![image width="60%" height="50%"](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/404b76bd-2edb-4804-9226-e7661b3972ae)
 
 
 ## The Most Popular Video Categories by View Count
