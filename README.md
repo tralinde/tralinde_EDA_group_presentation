@@ -3,7 +3,7 @@
 YouTube is a popular online video-sharing platform that allows users to upload, watch, and share videos on a wide range of topics, from entertainment and education to news and tutorials, while also providing a platform for creators to build an audience and monetize their content through ads and sponsorships.
 Analyzing YouTube video viewership is important for evaluating content performance, understanding the audience, optimizing content, monetization, competitor analysis, and making informed decisions. It helps creators and businesses maximize their reach, engagement, and overall success on the YouTube platform.
 
-## The Most Popular Creators between Nov 2017 through June 2018 and Their View Count
+## The Most Popular Creators between Nov 2017 and June 2018 and Their View Count
 
 ![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/25f602ee-2ef5-4019-910e-6a93ce266fcd)
 
