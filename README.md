@@ -31,16 +31,16 @@ Analyzing YouTube video viewership is important for evaluating content performan
 
 
 <img src="https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/404b76bd-2edb-4804-9226-e7661b3972ae" width=60% height=50%/>
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/404b76bd-2edb-4804-9226-e7661b3972ae)
+
 
 
 ## The Most Popular Video Categories by View Count
 
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/2264cf5b-2683-4bce-b174-d532f3136703)
+<img src="https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/2264cf5b-2683-4bce-b174-d532f3136703" width=80% height=80%/>
 
 ## Days until trending sorted by category 
 
-![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ab71dbca-e2f8-46e3-9825-eec05ea4cf17)
+<img src ="https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ab71dbca-e2f8-46e3-9825-eec05ea4cf17" width=80% height=80%/>
 
 
 ## Data Cleaning Process
