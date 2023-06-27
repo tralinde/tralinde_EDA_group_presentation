@@ -41,6 +41,21 @@ Analyzing YouTube video viewership is important for evaluating content performan
 ![image](https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ab71dbca-e2f8-46e3-9825-eec05ea4cf17)
 
 
+## Data Cleaning Process
+- Duplicate data
+- Time formatting consistency
+   - Converting time to integers
+   - Date/time formatting
+- Removing outliers
+- Visual clarity on category ids
+
+
+## Future Project Plans
+- Trending tags, identifying what makes a video trend
+- Duration of trending content
+- Identifying social media platforms in descriptions
+
+
 
 ## Planning
 
@@ -69,36 +84,3 @@ Change graph titles, where it says 2011.. Dataset is actually between Nov 2017 t
 
 bonus. Trending duration (spikes)
 bonus. identify social media links in description
-
-#1 Film & Animation
-2 Autos & Vehicles
-10 Music
-15 Pets & Animals
-17 Sports
-18 Short Movies
-19 Travel & Events
-20 Gaming
-21 Videoblogging
-22 People & Blogs
-23 Comedy
-24 Entertainment
-25 News & Politics
-26 Howto & Style
-27 Education
-28 Science & Technology
-29 Nonprofits & Activism
-30 Movies
-31 Anime/Animation
-32 Action/Adventure
-33 Classics
-34 Comedy
-35 Documentary
-36 Drama
-37 Family
-38 Foreign
-39 Horror
-40 Sci-Fi/Fantasy
-41 Thriller
-42 Shorts
-43 Shows
-44 Trailers
