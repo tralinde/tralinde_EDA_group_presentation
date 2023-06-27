@@ -36,7 +36,7 @@ Analyzing YouTube video viewership is important for evaluating content performan
 
 ## 🕗 Days until trending sorted by category 
 
-<img src ="https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ab71dbca-e2f8-46e3-9825-eec05ea4cf17" width=80% height=80%/>
+<img src ="https://github.com/tralinde/tralinde_EDA_group_presentation/assets/96899068/ba4dc434-2b19-4867-9452-0dbfb5bb3011" width=80% height=80%/>
 
 
 ## 🤓 Data Cleaning Process
