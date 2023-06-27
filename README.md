@@ -13,8 +13,17 @@ Analyzing YouTube video viewership is important for evaluating content performan
 - Most popular content creators
 - Analysis by video category
    - Most viewed
-- Most commented
+   - Most commented
 - Timeline between publication and trending status
+
+## Data of Interest
+- Channel name
+- Trending date
+- Publish time
+- Views
+- Comment count
+- Video Id
+
 
 
 
