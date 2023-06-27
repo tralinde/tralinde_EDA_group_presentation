@@ -1,9 +1,9 @@
-## Youtube Analytics between Nov 2017 and June 2018 in the U.S.
+## 🎉 Youtube Analytics between Nov 2017 and June 2018 in the U.S.
 
 YouTube is a popular online video-sharing platform that allows users to upload, watch, and share videos on a wide range of topics, from entertainment and education to news and tutorials, while also providing a platform for creators to build an audience and monetize their content through ads and sponsorships.
 Analyzing YouTube video viewership is important for evaluating content performance, understanding the audience, optimizing content, monetization, competitor analysis, and making informed decisions. It helps creators and businesses maximize their reach, engagement, and overall success on the YouTube platform.
 
-## Stakeholder Interest
+## 🌎 Stakeholder Interest
 
 - Analyzing YouTube viewership
 - Evaluating audience engagement
