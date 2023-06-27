@@ -5,16 +5,16 @@ Analyzing YouTube video viewership is important for evaluating content performan
 
 ## Stakeholder Interest
 
-Analyzing YouTube viewership
-Evaluating audience engagement
-Informing marketing decisions
+- Analyzing YouTube viewership
+- Evaluating audience engagement
+- Informing marketing decisions
 
 ## Summary
-Most popular content creators
-Analysis by video category
-Most viewed
-Most commented
-Timeline between publication and trending status
+- Most popular content creators
+- Analysis by video category
+-- Most viewed
+- Most commented
+- Timeline between publication and trending status
 
 
 
