@@ -27,7 +27,7 @@ Overview
 Change graph titles, where it says 2011.. Dataset is actually between Nov 2017 through June 2018. 
 
 1. Finding the most popular creator by common channel title (which handle, what's trending) ======== Found it. Done
-   Like, dislie ratio
+   Like, dislike ratio
 2. Most popular category ID
 
 3. Trending "video ID" analysis (most common video on the trend list)
